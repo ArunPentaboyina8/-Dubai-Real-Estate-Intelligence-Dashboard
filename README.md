@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 This interactive Power BI dashboard analyzes 50,000 property listings across the Dubai real estate market. It leverages DAX to engineer custom data features—including pricing tiers, property types, and developer market share—while featuring dynamic KPI tracking, geospatial mapping, and interactive slicers for deep-dive market exploration. Ultimately, the project delivers actionable, data-driven insights to help real estate investors and agents identify high-value opportunities.
 
-![Dashboard Preview]("C:\Users\arun777\Pictures\Screenshots\Screenshot 2026-03-16 145922.png")
+
 
 ## 🎯 Business Objectives
 * Analyze the average cost of real estate across key Dubai neighborhoods (Downtown, Arabian Ranches, Al Qudra).
